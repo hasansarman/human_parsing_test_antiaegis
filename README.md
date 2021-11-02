@@ -12,7 +12,7 @@ To assess architecture, memory, forward time (in either cpu or gpu), numper of p
 ```
 python measure_model.py
 ```
-
+THIS IS JUST FOR TESTS !!
 ## Dataset
 **Portrait Segmentation (Human/Background)**
 * [Automatic Portrait Segmentation for Image Stylization](http://xiaoyongshen.me/webpage_portrait/index.html): 1800 images
