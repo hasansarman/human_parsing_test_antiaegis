@@ -22,7 +22,7 @@ python measure_model.py
 * Python3.6.x is used in this repository.
 * Clone the repository:
 ```
-git clone --recursive https://github.com/AntiAegis/Human-Segmentation-PyTorch.git
+git clone --recursive https://github.com/hasansarman/human_parsing_test_antiaegis.git
 cd Human-Segmentation-PyTorch
 git submodule sync
 git submodule update --init --recursive
