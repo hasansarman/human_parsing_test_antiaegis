@@ -23,7 +23,7 @@ python measure_model.py
 * Clone the repository:
 ```
 git clone --recursive https://github.com/hasansarman/human_parsing_test_antiaegis.git
-cd Human-Segmentation-PyTorch
+cd human_parsing_test_antiaegis
 git submodule sync
 git submodule update --init --recursive
 ```
